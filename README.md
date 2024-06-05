@@ -12,7 +12,7 @@ The manually normalized corpus is `rc_manual_normalisation_lt4hala.src` and `rc_
 Please cite the following paper if you use the datasets or models.
 ```
 @inproceedings{rubino-etal-2024-automatic,
-    title={{Automatic Normalisation of {M}iddle {F}rench and Its Impact on Productivity}},
+    title={{Automatic Normalisation of Middle French and Its Impact on Productivity}},
     author={Rubino, Raphael and Coram-Mekkey, Sandra and Gerlach, Johanna and Mutal, Jonathan David and Bouillon, Pierrette},
     booktitle={Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024},
     year={2024},
