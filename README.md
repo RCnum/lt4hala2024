@@ -9,8 +9,8 @@ The manually normalized corpus is `rc_manual_normalisation_lt4hala.src` and `rc_
 
 ## Synthetic corpus
 Due to its size, the synthetic corpus is hosted here:
-[source](https://drive.switch.ch/index.php/s/ptuSN7V96aBzqAn)
-[target](https://drive.switch.ch/index.php/s/Q1vOQN8qwj8Oi9H)
+- [source](https://drive.switch.ch/index.php/s/ptuSN7V96aBzqAn)
+- [target](https://drive.switch.ch/index.php/s/Q1vOQN8qwj8Oi9H)
 
 # References
 Please cite the following paper if you use the datasets or models.
