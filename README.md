@@ -1,6 +1,5 @@
 # lt4hala2024
-Relevant data and code to reproduce the findings in "Automatic Normalisation of Middle French and its Impact on Productivity".
-More information in the [paper](https://aclanthology.org/2024.lt4hala-1.20/)
+Relevant data and code to reproduce the findings in ["Automatic Normalisation of Middle French and its Impact on Productivity"](https://aclanthology.org/2024.lt4hala-1.20/).
 
 # Datasets
 All datasets are in the data folder.
